@@ -1,0 +1,490 @@
+{
+  "btnDimRadio": {
+    "Key": "调光",
+    "Value": "调光"
+  },
+  "btnDimradioOff": {
+    "Key": "关灯",
+    "Value": "关灯"
+  },
+  "btnDimReadStateInfo": {
+    "Key": "读取",
+    "Value": "读取"
+  },
+  "btnInTempDefault": {
+    "Key": "默认值",
+    "Value": "默认值"
+  },
+  "btnOutTempDefault": {
+    "Key": "默认值",
+    "Value": "默认值"
+  },
+  "btnReadConfig": {
+    "Key": "读取配置文件",
+    "Value": "读取配置文件"
+  },
+  "btnReadDrive": {
+    "Key": "读取电源",
+    "Value": "读取电源"
+  },
+  "btnReadPRGMR": {
+    "Key": "读取编程器",
+    "Value": "读取编程器"
+  },
+  "btnSaveConfig": {
+    "Key": "保存配置文件",
+    "Value": "保存配置文件"
+  },
+  "btnTimeCtrlDefault": {
+    "Key": "默认曲线",
+    "Value": "默认曲线"
+  },
+  "btnTimeCtrlFullPower": {
+    "Key": "满功率曲线",
+    "Value": "满功率曲线"
+  },
+  "btnWriteDrive": {
+    "Key": "写入电源",
+    "Value": "写入电源"
+  },
+  "btnWritePRGMR": {
+    "Key": "写入编程器",
+    "Value": "写入编程器"
+  },
+  "combTagType": {
+    "Key": "脱机编程器",
+    "Value": "脱机编程器"
+  },
+  "FormMain": {
+    "Key": "LED编程器",
+    "Value": "LED编程器"
+  },
+  "gbTempIn": {
+    "Key": "内部温度",
+    "Value": "内部温度"
+  },
+  "gbTempOut": {
+    "Key": "外部温度",
+    "Value": "外部温度"
+  },
+  "gbTimeCtrl": {
+    "Key": "时控设置",
+    "Value": "时控设置"
+  },
+  "groupBox1": {
+    "Key": "模式设置",
+    "Value": "模式设置"
+  },
+  "groupBox2": {
+    "Key": "",
+    "Value": ""
+  },
+  "groupBox3": {
+    "Key": "时控设置",
+    "Value": "时控设置"
+  },
+  "groupBox4": {
+    "Key": "时控模式",
+    "Value": "时控模式"
+  },
+  "groupBox9": {
+    "Key": "内部温度",
+    "Value": "内部温度"
+  },
+  "label1": {
+    "Key": "工作模式",
+    "Value": "工作模式"
+  },
+  "label10": {
+    "Key": "最大电流值",
+    "Value": "最大电流值"
+  },
+  "label11": {
+    "Key": "位置",
+    "Value": "位置"
+  },
+  "label12": {
+    "Key": "温度设置",
+    "Value": "温度设置"
+  },
+  "label13": {
+    "Key": "保护点",
+    "Value": "保护点"
+  },
+  "label14": {
+    "Key": "电流值",
+    "Value": "电流值"
+  },
+  "label15": {
+    "Key": "恢复点",
+    "Value": "恢复点"
+  },
+  "label16": {
+    "Key": "状态信息",
+    "Value": "状态信息"
+  },
+  "label18": {
+    "Key": "工作电流",
+    "Value": "工作电流"
+  },
+  "label19": {
+    "Key": "内部",
+    "Value": "内部"
+  },
+  "label2": {
+    "Key": "渐变时间(min)",
+    "Value": "渐变时间(min)"
+  },
+  "label20": {
+    "Key": "定时参数",
+    "Value": "定时参数"
+  },
+  "label22": {
+    "Key": "内部温度",
+    "Value": "内部温度"
+  },
+  "label24": {
+    "Key": "时控模式",
+    "Value": "时控模式"
+  },
+  "label25": {
+    "Key": "外部温度",
+    "Value": "外部温度"
+  },
+  "label26": {
+    "Key": "渐变时间(min)",
+    "Value": "渐变时间(min)"
+  },
+  "label27": {
+    "Key": "当前状态",
+    "Value": "当前状态"
+  },
+  "label29": {
+    "Key": "工作电压",
+    "Value": "工作电压"
+  },
+  "label3": {
+    "Key": "序号",
+    "Value": "序号"
+  },
+  "label30": {
+    "Key": "调光控制",
+    "Value": "调光控制"
+  },
+  "label31": {
+    "Key": "调光值",
+    "Value": "调光值"
+  },
+  "label33": {
+    "Key": "运行次数",
+    "Value": "运行次数"
+  },
+  "label34": {
+    "Key": "输出设置",
+    "Value": "输出设置"
+  },
+  "label35": {
+    "Key": "序号",
+    "Value": "序号"
+  },
+  "label36": {
+    "Key": "调光比例%",
+    "Value": "调光比例%"
+  },
+  "label37": {
+    "Key": "保持时间(min)",
+    "Value": "保持时间(min)"
+  },
+  "label39": {
+    "Key": "运行时长",
+    "Value": "运行时长"
+  },
+  "label4": {
+    "Key": "设置电流值",
+    "Value": "设置电流值"
+  },
+  "label41": {
+    "Key": "工作状态",
+    "Value": "工作状态"
+  },
+  "label5": {
+    "Key": "调光比例%",
+    "Value": "调光比例%"
+  },
+  "label50": {
+    "Key": "调光工作区",
+    "Value": "调光工作区"
+  },
+  "label51": {
+    "Key": "最佳工作区",
+    "Value": "最佳工作区"
+  },
+  "label6": {
+    "Key": "最大电压值",
+    "Value": "最大电压值"
+  },
+  "label60": {
+    "Key": "恒压工作区",
+    "Value": "恒压工作区"
+  },
+  "label66": {
+    "Key": "外部",
+    "Value": "外部"
+  },
+  "label7": {
+    "Key": "保持时间(min)",
+    "Value": "保持时间(min)"
+  },
+  "label8": {
+    "Key": "最小电压值",
+    "Value": "最小电压值"
+  },
+  "label9": {
+    "Key": "定时配置",
+    "Value": "定时配置"
+  },
+  "labeltl1": {
+    "Key": "历史时长1",
+    "Value": "历史时长1"
+  },
+  "labeltl2": {
+    "Key": "历史时长2",
+    "Value": "历史时长2"
+  },
+  "labState": {
+    "Key": "初始化界面控件完成",
+    "Value": "初始化界面控件完成"
+  },
+  "labTimeCtrlMode": {
+    "Key": "标准模式",
+    "Value": "标准模式"
+  },
+  "labTimeCtrlState": {
+    "Key": "未启用",
+    "Value": "未启用"
+  },
+  "rdbtnAutoTimeCtrl": {
+    "Key": "自适应定时模式",
+    "Value": "自适应定时模式"
+  },
+  "rdbtnCommunicate": {
+    "Key": "通讯",
+    "Value": "通讯"
+  },
+  "rdbtnConstantCurrent": {
+    "Key": "恒压",
+    "Value": "恒压"
+  },
+  "rdbtnConstantPower": {
+    "Key": "恒功率",
+    "Value": "恒功率"
+  },
+  "rdbtnNormTimeCtrl": {
+    "Key": "标准时控",
+    "Value": "标准时控"
+  },
+  "rdbtnPWMA": {
+    "Key": "PWM 正逻辑",
+    "Value": "PWM 正逻辑"
+  },
+  "rdbtnPWMB": {
+    "Key": "PWM 负逻辑",
+    "Value": "PWM 负逻辑"
+  },
+  "rdbtnTimeCtr": {
+    "Key": "定时模式",
+    "Value": "定时模式"
+  },
+  "rdbtnVolF": {
+    "Key": "0-10V 反逻辑",
+    "Value": "0-10V 反逻辑"
+  },
+  "scbxTimeCtrl1": {
+    "Key": "启用",
+    "Value": "启用"
+  },
+  "sckboxInCtr": {
+    "Key": "修改",
+    "Value": "修改"
+  },
+  "sckboxOutCtr": {
+    "Key": "修改",
+    "Value": "修改"
+  },
+  "skinLabel1": {
+    "Key": "驱动器系列",
+    "Value": "驱动器系列"
+  },
+  "skinLabel2": {
+    "Key": "型号",
+    "Value": "型号"
+  },
+  "skinLabel20": {
+    "Key": "电流值",
+    "Value": "电流值"
+  },
+  "skinLabel21": {
+    "Key": "保护点",
+    "Value": "保护点"
+  },
+  "skinLabel22": {
+    "Key": "恢复点",
+    "Value": "恢复点"
+  },
+  "skinLabel3": {
+    "Key": "输出电流（A）",
+    "Value": "输出电流（A）"
+  },
+  "skinLabel4": {
+    "Key": "最大电压（V）",
+    "Value": "最大电压（V）"
+  },
+  "skinLabel5": {
+    "Key": "最小电压（V）",
+    "Value": "最小电压（V）"
+  },
+  "skinLabel6": {
+    "Key": "最大电流（A）",
+    "Value": "最大电流（A）"
+  },
+  "skinLabel7": {
+    "Key": "恢复点",
+    "Value": "恢复点"
+  },
+  "skinLabel8": {
+    "Key": "保护点",
+    "Value": "保护点"
+  },
+  "skinLabel9": {
+    "Key": "电流值",
+    "Value": "电流值"
+  },
+  "skinTabPage1": {
+    "Key": "概述",
+    "Value": "概述"
+  },
+  "skinTabPage2": {
+    "Key": "输出电流",
+    "Value": "输出电流"
+  },
+  "skinTabPage3": {
+    "Key": "模式设置",
+    "Value": "模式设置"
+  },
+  "skinTabPage4": {
+    "Key": "温度保护设置",
+    "Value": "温度保护设置"
+  },
+  "skinTabPage5": {
+    "Key": "定时设置",
+    "Value": "定时设置"
+  },
+  "帮助ToolStripMenuItem": {
+    "Key": "帮助ToolStripMenuItem",
+    "Value": "帮助"
+  },
+  "帮助ToolStripMenuItem1": {
+    "Key": "帮助ToolStripMenuItem1",
+    "Value": "帮助"
+  },
+  "保存配置文件ToolStripMenuItem": {
+    "Key": "保存配置文件ToolStripMenuItem",
+    "Value": "保存配置文件"
+  },
+  "读取配置文件ToolStripMenuItem": {
+    "Key": "读取配置文件ToolStripMenuItem",
+    "Value": "读取配置文件"
+  },
+  "更新日志ToolStripMenuItem": {
+    "Key": "更新日志ToolStripMenuItem",
+    "Value": "日志"
+  },
+  "关于ToolStripMenuItem": {
+    "Key": "关于ToolStripMenuItem",
+    "Value": "关于"
+  },
+  "检测更新ToolStripMenuItem": {
+    "Key": "检测更新ToolStripMenuItem",
+    "Value": "检测更新"
+  },
+  "退出ToolStripMenuItem": {
+    "Key": "退出ToolStripMenuItem",
+    "Value": "退出"
+  },
+  "文件ToolStripMenuItem": {
+    "Key": "文件ToolStripMenuItem",
+    "Value": "文件"
+  },
+  "语言ToolStripMenuItem": {
+    "Key": "语言ToolStripMenuItem",
+    "Value": "语言"
+  },
+  "textBox1": {
+    "Key": "在模式下，电源输出电压恒定，输出电流直接输出至最大（范围详见输出电流选项卡中的输出范围标识），主要应用于自带恒流模块的负载或灯具。",
+    "Value": "在模式下，电源输出电压恒定，输出电流直接输出至最大（范围详见输出电流选项卡中的输出范围标识），主要应用于自带恒流模块的负载或灯具。"
+  },
+  "textBox2": {
+    "Key": "此模式下，负载电压轻微变动时，电源会根据输出电压在一定范围内自动调整输出电流恒定至额定最大功率，例（600W48V12.5A调整至600W54V11.11A），可应用于光衰补偿。",
+    "Value": "此模式下，负载电压轻微变动时，电源会根据输出电压在一定范围内自动调整输出电流恒定至额定最大功率，例（600W48V12.5A调整至600W54V11.11A），可应用于光衰补偿。"
+  },
+  "label38": {
+    "Key": "恒压模式：",
+    "Value": "恒压模式："
+  },
+  "label70": {
+    "Key": "恒功率模式：",
+    "Value": "恒功率模式："
+  },
+  "读取成功": {
+    "Key": "读取成功",
+    "Value": "读取成功"
+  },
+  "读取失败": {
+    "Key": "读取失败",
+    "Value": "读取失败"
+  },
+  "升级固件？": {
+    "Key": "升级固件？",
+    "Value": "升级固件？"
+  },
+  "升级固件完成": {
+    "Key": "升级固件完成",
+    "Value": "升级固件完成"
+  },
+  "升级固件失败": {
+    "Key": "升级固件失败",
+    "Value": "升级固件失败"
+  },
+  "升级已取消": {
+    "Key": "升级已取消",
+    "Value": "升级已取消"
+  },
+  "升级固件ToolStripMenuItem": {
+    "Key": "升级固件ToolStripMenuItem",
+    "Value": "升级固件"
+  },
+  "Normal working": {
+    "Key": "正常工作",
+    "Value": "正常工作"
+  },
+  "Short circuit or low load voltage": {
+    "Key": "短路或者负载电压过低",
+    "Value": "短路或者负载电压过低"
+  },
+  "The temperature is too high": {
+    "Key": "温度过高",
+    "Value": "温度过高"
+  },
+  "Output current overshoot": {
+    "Key": "输出电流过冲",
+    "Value": "输出电流过冲"
+  },
+  "Input voltage Low": {
+    "Key": "输入电压低",
+    "Value": "输入电压低"
+  },
+  "请先初始化设备": {
+    "Key": "请先初始化设备",
+    "Value": "请先初始化设备"
+  }
+}

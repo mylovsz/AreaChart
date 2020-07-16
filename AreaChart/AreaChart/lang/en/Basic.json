@@ -1,0 +1,691 @@
+{
+  "btnDimRadio": {
+    "Key": "调光",
+    "Value": "Dimming"
+  },
+  "btnDimradioOff": {
+    "Key": "关灯",
+    "Value": "Turn Off"
+  },
+  "btnDimReadStateInfo": {
+    "Key": "读取",
+    "Value": "Read"
+  },
+  "btnInTempDefault": {
+    "Key": "默认值",
+    "Value": "Default"
+  },
+  "btnOutTempDefault": {
+    "Key": "默认值",
+    "Value": "Default"
+  },
+  "btnReadConfig": {
+    "Key": "读取配置文件",
+    "Value": "Read Config"
+  },
+  "btnReadDrive": {
+    "Key": "读取电源",
+    "Value": "Read"
+  },
+  "btnReadPRGMR": {
+    "Key": "读取编程器",
+    "Value": "Read"
+  },
+  "btnSaveConfig": {
+    "Key": "保存配置文件",
+    "Value": "Save Config"
+  },
+  "btnTimeCtrlDefault": {
+    "Key": "默认曲线",
+    "Value": "Default"
+  },
+  "btnTimeCtrlFullPower": {
+    "Key": "满功率曲线",
+    "Value": "Full Power"
+  },
+  "btnWriteDrive": {
+    "Key": "写入电源",
+    "Value": "Write"
+  },
+  "btnWritePRGMR": {
+    "Key": "写入编程器",
+    "Value": "Write"
+  },
+  "combTagType": {
+    "Key": "脱机编程器",
+    "Value": "Offline Programmer"
+  },
+  "FormMain": {
+    "Key": "LED编程器",
+    "Value": "LED Programmer"
+  },
+  "groupBox1": {
+    "Key": "模式设置",
+    "Value": "Mode Setting"
+  },
+  "gbTempOut": {
+    "Key": "外部温度",
+    "Value": "External Temperature"
+  },
+  "gbTimeCtrl": {
+    "Key": "时控设置",
+    "Value": "Time Control Settings"
+  },
+  "groupBox4": {
+    "Key": "时控模式",
+    "Value": "Time Control Mode"
+  },
+  "gbTempIn": {
+    "Key": "内部温度",
+    "Value": "Internal Temperature"
+  },
+  "label1": {
+    "Key": "工作模式",
+    "Value": "Working Mode"
+  },
+  "label10": {
+    "Key": "最大电流值",
+    "Value": "Maximum Current"
+  },
+  "label11": {
+    "Key": "位置",
+    "Value": "Position"
+  },
+  "label12": {
+    "Key": "温度设置",
+    "Value": "Temperature Setting"
+  },
+  "label13": {
+    "Key": "保护点",
+    "Value": "Protection "
+  },
+  "label14": {
+    "Key": "电流值",
+    "Value": "Current"
+  },
+  "label15": {
+    "Key": "恢复点",
+    "Value": "Recovery "
+  },
+  "label16": {
+    "Key": "状态信息",
+    "Value": "Status Information"
+  },
+  "label60": {
+    "Key": "恒压工作区",
+    "Value": "Constant Voltage Workspace"
+  },
+  "label18": {
+    "Key": "工作电流",
+    "Value": "Working Current"
+  },
+  "label19": {
+    "Key": "内部",
+    "Value": "Inside"
+  },
+  "label2": {
+    "Key": "渐变时间(min)",
+    "Value": "Gradient (min)"
+  },
+  "label20": {
+    "Key": "定时参数",
+    "Value": "Timing Parameter"
+  },
+  "label22": {
+    "Key": "内部温度",
+    "Value": "Internal Temperature"
+  },
+  "label24": {
+    "Key": "时控模式",
+    "Value": "Time Control Mode"
+  },
+  "label25": {
+    "Key": "外部温度",
+    "Value": "External Temperature"
+  },
+  "label26": {
+    "Key": "渐变时间(min)",
+    "Value": "Gradient (min)"
+  },
+  "label27": {
+    "Key": "当前状态",
+    "Value": "Current State"
+  },
+  "label29": {
+    "Key": "工作电压",
+    "Value": "Working Voltage"
+  },
+  "label3": {
+    "Key": "序号",
+    "Value": "Serial"
+  },
+  "label30": {
+    "Key": "调光控制",
+    "Value": "Dimming Control"
+  },
+  "label31": {
+    "Key": "调光值",
+    "Value": "Dimming"
+  },
+  "label33": {
+    "Key": "运行次数",
+    "Value": "Runs"
+  },
+  "label34": {
+    "Key": "输出设置",
+    "Value": "Output Setting"
+  },
+  "label35": {
+    "Key": "序号",
+    "Value": "Serial"
+  },
+  "label36": {
+    "Key": "调光比例%",
+    "Value": "Dimming Ratio%"
+  },
+  "label37": {
+    "Key": "保持时间(min)",
+    "Value": "Retention (min)"
+  },
+  "label39": {
+    "Key": "运行时长",
+    "Value": "Runing Time"
+  },
+  "label4": {
+    "Key": "设置电流值",
+    "Value": "Current Value Setting"
+  },
+  "label41": {
+    "Key": "工作状态",
+    "Value": "Working Condition"
+  },
+  "label5": {
+    "Key": "调光比例%",
+    "Value": "DimmingRatio%"
+  },
+  "label50": {
+    "Key": "调光工作区",
+    "Value": "Dimming Workspace"
+  },
+  "label51": {
+    "Key": "最佳工作区",
+    "Value": "Best Workspace"
+  },
+  "label6": {
+    "Key": "最大电压值",
+    "Value": "Maximum Voltage Value"
+  },
+  "label66": {
+    "Key": "外部",
+    "Value": "External"
+  },
+  "label7": {
+    "Key": "保持时间(min)",
+    "Value": "Retention Time (min)"
+  },
+  "label8": {
+    "Key": "最小电压值",
+    "Value": "Minimum Voltage Value"
+  },
+  "label9": {
+    "Key": "定时配置",
+    "Value": "Timing Configuration"
+  },
+  "labeltl1": {
+    "Key": "历史时长1",
+    "Value": "History Time1"
+  },
+  "labeltl2": {
+    "Key": "历史时长2",
+    "Value": "History Time2"
+  },
+  "labState": {
+    "Key": "启动成功",
+    "Value": "Startup Success"
+  },
+  "labTimeCtrlMode": {
+    "Key": "标准模式",
+    "Value": "Standard Mode"
+  },
+  "labTimeCtrlState": {
+    "Key": "未启用",
+    "Value": "DisEnabled"
+  },
+  "rdbtnAutoTimeCtrl": {
+    "Key": "自适应定时模式",
+    "Value": "Adaptive Timing Mode"
+  },
+  "rdbtnCommunicate": {
+    "Key": "通讯",
+    "Value": "Communication"
+  },
+  "rdbtnConstantCurrent": {
+    "Key": "恒压",
+    "Value": "Constant Voltage"
+  },
+  "rdbtnConstantPower": {
+    "Key": "恒功率",
+    "Value": "Constant Power"
+  },
+  "rdbtnNormTimeCtrl": {
+    "Key": "标准时控",
+    "Value": "Standard Time Control"
+  },
+  "rdbtnPWMA": {
+    "Key": "PWM 正向",
+    "Value": "PWM +"
+  },
+  "rdbtnPWMB": {
+    "Key": "PWM 反向",
+    "Value": "PWM -"
+  },
+  "rdbtnTimeCtr": {
+    "Key": "定时模式",
+    "Value": "Timing Mode"
+  },
+  "rdbtnVolF": {
+    "Key": "0-10V 反逻辑",
+    "Value": "0-10V -"
+  },
+  "scbxTimeCtrl": {
+    "Key": "修改",
+    "Value": "Modify"
+  },
+  "scbxTimeCtrl1": {
+    "Key": "启用",
+    "Value": "Enable"
+  },
+  "sckboxInCtr": {
+    "Key": "修改",
+    "Value": "Modify"
+  },
+  "sckboxOutCtr": {
+    "Key": "修改",
+    "Value": "Modify"
+  },
+  "skinLabel1": {
+    "Key": "驱动器系列",
+    "Value": "Driver Series"
+  },
+  "skinLabel2": {
+    "Key": "型号",
+    "Value": "Model"
+  },
+  "skinLabel20": {
+    "Key": "电流值",
+    "Value": "Current"
+  },
+  "skinLabel21": {
+    "Key": "保护点℃",
+    "Value": "Protection "
+  },
+  "skinLabel22": {
+    "Key": "恢复点℃",
+    "Value": "Recovery "
+  },
+  "skinLabel3": {
+    "Key": "输出电流（A）",
+    "Value": "Output Current (A)"
+  },
+  "skinLabel4": {
+    "Key": "最大电压（V）",
+    "Value": "Maximum Voltage (V)"
+  },
+  "skinLabel5": {
+    "Key": "最小电压（V）",
+    "Value": "Minimum Voltage (V)"
+  },
+  "skinLabel6": {
+    "Key": "最大电流（A）",
+    "Value": "Maximum Current (A)"
+  },
+  "skinLabel7": {
+    "Key": "恢复点℃",
+    "Value": "Recovery "
+  },
+  "skinLabel8": {
+    "Key": "保护点℃",
+    "Value": "Protection "
+  },
+  "skinLabel9": {
+    "Key": "电流值",
+    "Value": "Current"
+  },
+  "skinTabPage1": {
+    "Key": "概述",
+    "Value": "Summary"
+  },
+  "skinTabPage2": {
+    "Key": "输出电流",
+    "Value": "Output Current"
+  },
+  "skinTabPage3": {
+    "Key": "模式设置",
+    "Value": "Mode Setting"
+  },
+  "skinTabPage4": {
+    "Key": "温度保护设置",
+    "Value": "Protection Set"
+  },
+  "skinTabPage5": {
+    "Key": "定时设置",
+    "Value": "Timing Setting"
+  },
+  "初始化界面控件完成": {
+    "Key": "初始化界面控件完成",
+    "Value": "Initialization of the interface control is complete"
+  },
+  "已打开串口": {
+    "Key": "已打开串口",
+    "Value": "The serial port has been opened"
+  },
+  "已关闭串口": {
+    "Key": "已关闭串口",
+    "Value": "The serial port has been closed"
+  },
+  "串口打开成功": {
+    "Key": "串口打开成功",
+    "Value": "Serial port opened successfully"
+  },
+  "串口打开失败": {
+    "Key": "串口打开失败",
+    "Value": "Serial port opening failed"
+  },
+  "编程器数据读取中...": {
+    "Key": "编程器数据读取中...",
+    "Value": "The programmer is reading the data..."
+  },
+  "编程器数据读取成功, 型号：": {
+    "Key": "编程器数据读取成功, 型号：",
+    "Value": "Program data read successfully, model:"
+  },
+  " 版本：": {
+    "Key": " 版本：",
+    "Value": " Version: "
+  },
+  "编程器数据读取超时": {
+    "Key": "编程器数据读取超时",
+    "Value": "The programmer data read timeout"
+  },
+  "编程器数据读取失败": {
+    "Key": "编程器数据读取失败",
+    "Value": "The programmer failed to read the data"
+  },
+  "编程器数据写入中...": {
+    "Key": "编程器数据写入中...",
+    "Value": "The programmer writes the data..."
+  },
+  "下放配置？": {
+    "Key": "下放配置？",
+    "Value": "Decentralized allocation?"
+  },
+  "提示": {
+    "Key": "提示",
+    "Value": "Tip"
+  },
+  "编程器数据写入成功": {
+    "Key": "编程器数据写入成功",
+    "Value": "The programmer data was written successfully"
+  },
+  "编程器数据写入超时": {
+    "Key": "编程器数据写入超时",
+    "Value": "The programmer data write timeout"
+  },
+  "写入已取消": {
+    "Key": "写入已取消",
+    "Value": "Write canceled"
+  },
+  "编程器数据写入失败": {
+    "Key": "编程器数据写入失败",
+    "Value": "Programmer data write failed"
+  },
+  "电源数据读取中...": {
+    "Key": "电源数据读取中...",
+    "Value": "Power supply data reading..."
+  },
+  "电源数据读取成功, 型号：": {
+    "Key": "电源数据读取成功, 型号：",
+    "Value": "Power data read successfully, model:"
+  },
+  "电源数据读取超时": {
+    "Key": "电源数据读取超时",
+    "Value": "Power data read timeout"
+  },
+  "电源数据读取失败": {
+    "Key": "电源数据读取失败",
+    "Value": "Power data read failed"
+  },
+  "电源数据写入中...": {
+    "Key": "电源数据写入中...",
+    "Value": "Power data is written..."
+  },
+  "电源数据写入成功": {
+    "Key": "电源数据写入成功",
+    "Value": "Power data written successfully"
+  },
+  "电源数据写入超时": {
+    "Key": "电源数据写入超时",
+    "Value": "Power data write timeout"
+  },
+  "电源数据写入失败": {
+    "Key": "电源数据写入失败",
+    "Value": "Power data write failed"
+  },
+  "0-10V": {
+    "Key": "0-10V",
+    "Value": "0-10V"
+  },
+  "通讯": {
+    "Key": "通讯",
+    "Value": "Communication"
+  },
+  "定时模式": {
+    "Key": "定时模式",
+    "Value": "Timing mode"
+  },
+  "PWM 正向": {
+    "Key": "PWM 正向",
+    "Value": "PWM forward"
+  },
+  "恒功率": {
+    "Key": "恒功率",
+    "Value": "Constant power"
+  },
+  "恒压": {
+    "Key": "恒压",
+    "Value": "Constant voltage"
+  },
+  "PWM 反向": {
+    "Key": "PWM 反向",
+    "Value": "PWM reverse"
+  },
+  "已启用": {
+    "Key": "已启用",
+    "Value": "Enabled"
+  },
+  "未启用": {
+    "Key": "未启用",
+    "Value": "Disenabled"
+  },
+  "标准模式": {
+    "Key": "标准模式",
+    "Value": "The standard model"
+  },
+  "自适应定时模式": {
+    "Key": "自适应定时模式",
+    "Value": "Adaptive timing mode"
+  },
+  "最大输出电压不符合推荐值，已自动修改为推荐值，写入即可生效！": {
+    "Key": "最大输出电压不符合推荐值，已自动修改为推荐值，写入即可生效！",
+    "Value": "Maximum output voltage does not meet the recommended value, has been automatically modified to the recommended value, write can take effect!"
+  },
+  "电源状态数据读取中...": {
+    "Key": "电源状态数据读取中...",
+    "Value": "Power status data reading..."
+  },
+  "电源状态数据读取成功": {
+    "Key": "电源状态数据读取成功",
+    "Value": "Power status data read successfully"
+  },
+  "电源状态数据读取超时": {
+    "Key": "电源状态数据读取超时",
+    "Value": "The power status data read timeout"
+  },
+  "电源状态数据读取失败": {
+    "Key": "电源状态数据读取失败",
+    "Value": "Power status data read failed"
+  },
+  "启用定时模式,覆盖当前模式": {
+    "Key": "启用定时模式,覆盖当前模式",
+    "Value": "Enable timing mode to override the current mode"
+  },
+  "保存成功": {
+    "Key": "保存成功",
+    "Value": "Save success"
+  },
+  "保存失败": {
+    "Key": "保存失败",
+    "Value": "Save failed"
+  },
+  "更新发生了错误：": {
+    "Key": "更新发生了错误：",
+    "Value": "An error occurred in the update:"
+  },
+  "当前版本过低无法使用自动更新！": {
+    "Key": "当前版本过低无法使用自动更新！",
+    "Value": "The current version is too low to use automatic update!"
+  },
+  "已是最新版本": {
+    "Key": "已是最新版本",
+    "Value": "It is the latest version"
+  },
+  "文件ToolStripMenuItem": {
+    "Key": "文件ToolStripMenuItem",
+    "Value": "File"
+  },
+  "语言ToolStripMenuItem": {
+    "Key": "语言ToolStripMenuItem",
+    "Value": "Language"
+  },
+  "帮助ToolStripMenuItem": {
+    "Key": "帮助ToolStripMenuItem",
+    "Value": "Help"
+  },
+  "读取配置文件ToolStripMenuItem": {
+    "Key": "读取配置文件ToolStripMenuItem",
+    "Value": "Read Config"
+  },
+  "保存配置文件ToolStripMenuItem": {
+    "Key": "保存配置文件ToolStripMenuItem",
+    "Value": "Save Config"
+  },
+  "退出ToolStripMenuItem": {
+    "Key": "退出ToolStripMenuItem",
+    "Value": "Exit"
+  },
+  "更新日志ToolStripMenuItem": {
+    "Key": "更新日志ToolStripMenuItem",
+    "Value": "Log"
+  },
+  "帮助ToolStripMenuItem1": {
+    "Key": "帮助ToolStripMenuItem1",
+    "Value": "Help"
+  },
+  "关于ToolStripMenuItem": {
+    "Key": "关于ToolStripMenuItem",
+    "Value": "About"
+  },
+  "检测更新ToolStripMenuItem": {
+    "Key": "检测更新ToolStripMenuItem",
+    "Value": "Detection of update"
+  },
+  "模型不存在": {
+    "Key": "模型不存在",
+    "Value": "The model doesn't exist"
+  },
+  "取消定时模式,当前模式0-10V": {
+    "Key": "取消定时模式,当前模式0-10V",
+    "Value": "Cancel timing mode, current mode 0-10v"
+  },
+  "当前软件版本不支持此型号": {
+    "Key": "当前软件版本不支持此型号",
+    "Value": "This model is not supported in the current software version"
+  },
+  "textBox1": {
+    "Key": "在模式下，电源输出电压恒定，输出电流直接输出至最大（范围详见输出电流选项卡中的输出范围标识），主要应用于自带恒流模块的负载或灯具。",
+    "Value": "In the mode, the output voltage of the power supply is constant, and the output current is directly output to the maximum (the range is specified in the output current tab). It is mainly applied to the load or lamps with constant current module."
+  },
+  "textBox2": {
+    "Key": "此模式下，负载电压轻微变动时，电源会根据输出电压在一定范围内自动调整输出电流恒定至额定最大功率，例（600W48V12.5A调整至600W54V11.11A），可应用于光衰补偿。",
+    "Value": "In this mode, when the load voltage changes slightly, the power supply will automatically adjust the output current to the rated maximum power in a certain range according to the output voltage. For example, the power supply can be used for optical attenuation compensation (600W48V12.5A to 600W54V11.11A)."
+  },
+  "label38": {
+    "Key": "恒压模式：",
+    "Value": "Constant pressure mode:"
+  },
+  "label70": {
+    "Key": "恒功率模式：",
+    "Value": "Constant power mode:"
+  },
+  "读取成功": {
+    "Key": "读取成功",
+    "Value": "Read Success"
+  },
+  "读取失败": {
+    "Key": "读取失败",
+    "Value": "Read Failure"
+  },
+  "升级固件？": {
+    "Key": "升级固件？",
+    "Value": "To upgrade the firmware？"
+  },
+  "升级固件完成": {
+    "Key": "升级固件完成",
+    "Value": "Firmware upgrade complete"
+  },
+  "升级固件失败": {
+    "Key": "升级固件失败",
+    "Value": "Firmware upgrade failed"
+  },
+  "升级已取消": {
+    "Key": "升级已取消",
+    "Value": "Upgrade canceled"
+  },
+  "升级固件ToolStripMenuItem": {
+    "Key": "升级固件ToolStripMenuItem",
+    "Value": "Upgrade Firmware"
+  },
+  "编程器有新固件,请升级": {
+    "Key": "编程器有新固件,请升级",
+    "Value": "The programmer has new firmware, please update it"
+  },
+  "正常工作": {
+    "Key": "正常工作",
+    "Value": "Normal working"
+  },
+
+  "短路或者负载电压过低": {
+    "Key": "短路或者负载电压过低",
+    "Value": "Short circuit or low load voltage"
+  },
+  "温度过高": {
+    "Key": "温度过高",
+    "Value": "The temperature is too high"
+  },
+  "输出电流过冲": {
+    "Key": "输出电流过冲",
+    "Value": "Output current overshoot"
+  },
+  "输入电压低": {
+    "Key": "输入电压低",
+    "Value": "Input voltage Low"
+  },
+  "N/A": {
+    "Key": "N/A",
+    "Value": "N/A"
+  },
+  "请先初始化设备": {
+    "Key": "请先初始化设备",
+    "Value": "Please initialize the device first"
+  }
+}
